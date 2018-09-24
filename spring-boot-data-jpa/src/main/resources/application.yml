@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:mysql://104.224.142.102/test
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 1234
+    #更新创建数据表
+  jpa:
+    hibernate:
+      ddl-auto: update
+      #显示sql 语句
+    show-sql: true

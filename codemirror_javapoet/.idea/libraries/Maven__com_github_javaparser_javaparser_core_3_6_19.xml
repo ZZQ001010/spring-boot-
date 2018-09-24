@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.javaparser:javaparser-core:3.6.19">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.19/javaparser-core-3.6.19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.19/javaparser-core-3.6.19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-core/3.6.19/javaparser-core-3.6.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

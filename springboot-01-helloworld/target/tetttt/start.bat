@@ -1,0 +1,1 @@
+java -jar ../jar/springboot-01-helloworld-0.0.1-SNAPSHOT.jar --spring.config.location=../yml/

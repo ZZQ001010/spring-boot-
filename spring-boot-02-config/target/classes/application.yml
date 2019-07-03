@@ -17,7 +17,7 @@ person:
     age: 12
 spring:
   profiles:
-    active: dev
+    active: pro
 ---
 spring:
   profiles: dev

@@ -8,7 +8,9 @@ import org.springframework.data.jpa.repository.JpaRepository;
  * @date 2018/9/4 19:06
  */
 //第一个传入的是对象， 第二个是传入的主键的类型
+
 public interface  UserRepository  extends JpaRepository<User,Integer>{
+
 
 
 }
